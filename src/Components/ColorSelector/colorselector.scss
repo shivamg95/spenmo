@@ -1,0 +1,17 @@
+.color-selector-container {
+    display: flex;
+    width:100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.colorbullet {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    border: white 2px solid;
+}
+
+.selected-bullet {
+    border: red 2px solid;
+}
